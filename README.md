@@ -20,7 +20,7 @@ If you would like to download the app from the Google Play Store, click **here**
 * Linux: [download here](https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2021.1.1.20/android-studio-2021.1.1.20-linux.tar.gz)
 * Chrome OS: [download here](https://redirector.gvt1.com/edgedl/android/studio/install/2021.1.1.20/android-studio-2021.1.1.20-cros.deb)
 
-Once you are ready, open the project(s) in Android Studio. If you want to simply explore the Movie Client app, open Project5App1. If you would like to view the service code and API of MovieCentral, open up Project5App2. Ensure that the Run/Debug Configurations are set and set the device to a Pixel 3a XL using API 30. MovieCentral has no layout files, it is simply the code for the service in the MovieCentral class and the API within the MovieAPI.aidl file (shared with Movie Client). Movie Client, upon first launch, should load up and look something like this:
+Once you are ready, open the project(s) in Android Studio. If you want to simply explore the Movie Client app, open Project5App1. If you would like to view the service code and API of MovieCentral, open up Project5App2. Ensure that the Run/Debug Configurations are set and set the device to a Pixel 3a XL using API 30. MovieCentral has no layout files, it is simply the code for the service in the MovieCentral class and the API within the [MovieAPI.aidl](Project5App2/app/src/main/aidl/com/example/moviecommon/MovieAPI.aidl) file (shared with [Movie Client](Project5App1/app/src/main/aidl/com/example/moviecommon/MovieAPI.aidl)). Movie Client, upon first launch, should load up and look something like this:
 
 ![App Start](images/app_start.png)
  
