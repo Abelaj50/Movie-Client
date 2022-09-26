@@ -7,6 +7,7 @@ Android application showcasing trailers for various movies through a binding to 
 * [Project Requirements](#project-requirements)
 * [Technologies](#technologies)
 * [Credits](#credits)
+* [Thanks](#thanks)
 * [Visual Demonstration](#visual-demonstration)
 
 ## General info
@@ -28,7 +29,7 @@ Once you are ready, open the project(s) in Android Studio. If you want to simply
 You can then begin testing Movie Client's features. To begin, press on the ***BIND SERVICE*** button. This will then begin binding to MovieCentral's service through a shared .aidl file. Once the service has been bound to, you can either a) press ***UNBIND SERVICE*** at anytime from here on out to unbind the service and revert the app to its default state, or b) press ***DOWNLOAD INFO***, which will then retrieve all the data necessary to power the app from MovieCentral's API. Once the information has been downloaded, you now have a few different options. You can:
 
 
-* Select a movie from the dropdown menu located below the video player.
+* Select a movie from the dropdown menu
     * This automatically begins trailer playback.
     * Once a movie has been selected, you can press ***REQUEST SELECTED*** to bring about Quick Facts from the movie, retrieved from the MovieCentral API.
 * Press ***REQUEST LIST***
@@ -81,7 +82,7 @@ All credits for the project idea go to Professor Ugo Buy. Credits to some of the
 All credits to technologies used are given to their owners and all items specified in their respective licenses are adhered to throughout this project.
 
 ## Thanks
-I would like to extend a special thank you to Professor Ugo Buy, for his remarkable talent and ability in instructing courses during my time at UIC. The knowledge he has passed on has been extremely helpful in the development of my career as a software engineer. I would also like to extend a special thank you to one of the TA's in the course (and my fellow Class of 2022 graduate!), Shahmeer Ahmed. Shahmeer's guidance and oversight has been pivotal throughout CS 478 and I commend him for his dedication to helping students.
+I would like to extend a special thank you to Professor Ugo Buy, for his remarkable talent and ability in instructing courses during my time at UIC. The knowledge he has passed on has been extremely helpful in the development of my career as a software engineer. I would also like to extend a special thank you to one of the TA's in the course (and my fellow class of 2022 graduate), Shahmeer Ahmed. Shahmeer's oversight has been pivotal throughout CS 478 and I commend him for his dedication to helping students.
 
 ## Visual Demonstration
 The following link leads to a visual demonstration of the project.
