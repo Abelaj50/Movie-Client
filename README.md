@@ -36,7 +36,14 @@ You can then begin testing Movie Client's features. To begin, press on the ***BI
     * If you press on any of the list items, you will be directed to the third activity, which displays that specific movie's trailer in a full-screen view.
 
 ## Project Requirements
-**MovieCentral** was required to store information about motion pictures. This information includes for each movie (1) the title of the movie, (2) the name of the movie director, and (3) a string denoting the URL of a web site containing a (short) video clip of the movie. MovieCentral stores information about n movies numbered 1 through n, with n ≥ 5. The app exposes a service that supports functionality for downloading information about each movie. The API of MovieCentral’s service should expose the following 3 pieces of functionality in an appropriate AIDL file: 1) Retrieve all information for all movies stored in the service, 2) Retrieve all information for one specific movie by its number (passed as a parameter), and 3) Retrieve the URL string of the site with the movie’s video file.
+**MovieCentral** was required to store information about motion pictures. This information includes for each movie:
+
+
+1.  the title of the movie,
+2. the name of the movie director, and
+3. a string denoting the URL of a web site containing a (short) video clip of the movie.
+
+ MovieCentral stores information about n movies numbered 1 through n, with n ≥ 5. The app exposes a service that supports functionality for downloading information about each movie. The API of MovieCentral’s service should expose the following 3 pieces of functionality in an appropriate AIDL file: 1) Retrieve all information for all movies stored in the service, 2) Retrieve all information for one specific movie by its number (passed as a parameter), and 3) Retrieve the URL string of the site with the movie’s video file.
 
 **Movie Client** was required to contain a main activity that supports functionality for using the MovieCentral codebase by starting and binding to its service. Once bound to the service, Movie Client can use the service’s API to retrieve information about movies, and allows an interactive user to download information about each movie, display that information, and play the video clip at the URL obtained from MovieCentral. The interactive user of Movie Client’s main activity uses key presses on appropriate buttons to bind and unbind from the service.
 
