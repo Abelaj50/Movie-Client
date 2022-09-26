@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MovieCentral</string>
+
+    <string-array name="movieNames">
+        <item>I Am Legend</item>
+        <item>Scarface</item>
+        <item>Pokémon: The First Movie</item>
+        <item>Iron Man</item>
+        <item>The Matrix</item>
+        <item>Pulp Fiction</item>
+    </string-array>
+
+    <string-array name="movieDirectors">
+        <item>Francis Lawrence</item>
+        <item>Brian De Palma</item>
+        <item>Kunihiko Yuyam</item>
+        <item>Jon Favreau</item>
+        <item>The Wachowskis</item>
+        <item>Quentin Tarantino</item>
+    </string-array>
+
+<!--Streamable Pokémon Link [3rd item below] (cancelled my Streamable membership, link down now): https://archive.org/details/ptfm1999 OR Archive.org original video link: https://ia902904.us.archive.org/1/items/ptfm1999/PTFM_1999.mp4-->
+
+    <string-array name="movieLinks">
+        <item>https://ia800509.us.archive.org/29/items/IAmLegendTrailer/IAmLegendTrailer.mp4</item>
+        <item>https://ia802808.us.archive.org/1/items/scarfacetrailer_202002/Scarface%20trailer.mp4</item>
+        <item>https://ia902504.us.archive.org/31/items/pokemon-the-first-movie-1999-trailer/Poke%CC%81mon%3A%20The%20First%20Movie%20%281999%29%20Trailer.mp4</item>
+        <item>https://ia803400.us.archive.org/10/items/turner_video_11131/11131.mp4</item>
+        <item>https://ia803406.us.archive.org/29/items/turner_video_2797/2797.mp4</item>
+        <item>https://ia601702.us.archive.org/4/items/pulp-fiction-1994-official-trailer-hd/Pulp-Fiction-1994-Official-TrailerHD.mp4</item>
+    </string-array>
+
+    <string-array name="movieYears">
+        <item>2007</item>
+        <item>1983</item>
+        <item>1999</item>
+        <item>2008</item>
+        <item>1999</item>
+        <item>1994</item>
+    </string-array>
+
+    <string-array name="movieBudgets">
+        <item>$150M</item>
+        <item>$30M</item>
+        <item>$5M</item>
+        <item>$140M</item>
+        <item>$63M</item>
+        <item>$8M</item>
+    </string-array>
+
+    <string-array name="movieBoxOffice">
+        <item>$585.4M</item>
+        <item>$66M</item>
+        <item>$172.7M</item>
+        <item>$585.8M</item>
+        <item>$466.6M</item>
+        <item>$213.9M</item>
+    </string-array>
+</resources>
