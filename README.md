@@ -73,7 +73,10 @@ Project is created with:
 * Java SE Development Kit (JDK) 11.0.11
 
 ## Credits
-All credits for the project idea go to Professor Ugo Buy. Credits to some of the [MovieClient.java](Project5App1/app/src/main/java/com/example/project5app1/MovieClient.java) and  [MovieCentral.java](Project5App2/app/src/main/java/com/example/project5app2/MovieCentral.java) codebase also go to Professor Ugo Buy as the beginning template for our project. 
+All credits for the project idea go to Professor Ugo Buy. Credits to some of the [MovieClient.java](Project5App1/app/src/main/java/com/example/project5app1/MovieClient.java) and  [MovieCentral.java](Project5App2/app/src/main/java/com/example/project5app2/MovieCentral.java) codebase also go to Professor Ugo Buy as the beginning template for our project. Credits to:
+
+* [Freepik](https://www.flaticon.com/free-icon/clapperboard_1038100) for the application icon.
+* [Stevdza-San](https://www.youtube.com/c/StevdzaSan) for the exposed drop-down menu styling.
 
 All credits to technologies used are given to their owners and all items specified in their respective licenses are adhered to throughout this project.  
 
