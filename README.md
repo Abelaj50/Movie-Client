@@ -39,9 +39,10 @@ You can then begin testing Movie Client's features. To begin, press on the ***BI
 **MovieCentral** was required to store information about motion pictures. This information includes for each movie:
 
 
-1.  the title of the movie,
-2. the name of the movie director, and
-3. a string denoting the URL of a web site containing a (short) video clip of the movie.
+1. The title of the movie.
+2. The name of the movie director.
+3. A string denoting the URL of a web site containing a (short) video clip of the movie.
+
 
  MovieCentral stores information about n movies numbered 1 through n, with n ≥ 5. The app exposes a service that supports functionality for downloading information about each movie. The API of MovieCentral’s service should expose the following 3 pieces of functionality in an appropriate AIDL file: 1) Retrieve all information for all movies stored in the service, 2) Retrieve all information for one specific movie by its number (passed as a parameter), and 3) Retrieve the URL string of the site with the movie’s video file.
 
