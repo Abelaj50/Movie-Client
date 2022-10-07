@@ -82,7 +82,7 @@ All credits for the project idea go to Professor Ugo Buy. Credits to some of the
 All credits to technologies used are given to their owners and all items specified in their respective licenses are adhered to throughout this project.
 
 ## Thanks
-I would like to extend a special thank you to Professor Ugo Buy, for his remarkable talent and ability in instructing courses during my time at UIC. The knowledge he has passed on has been extremely helpful in the development of my career as a software engineer. I would also like to extend a special thank you to one of the TA's in the course (and my fellow class of 2022 graduate), Shahmeer Ahmed. Shahmeer's oversight has been pivotal throughout CS 478 and I commend him for his dedication to helping students.
+I would like to extend a special thank you to Professor Ugo Buy, for his remarkable talent and ability in instructing courses during my time at UIC. The knowledge he has passed on has been extremely helpful in the development of my career as a software engineer. I would also like to extend a special thank you to one of the TA's in the course (and my fellow class of 2022 graduate), [Shahmeer Ahmed](https://github.com/shahmeerahmed). Shahmeer's oversight has been pivotal throughout CS 478 and I commend him for his dedication to helping students.
 
 ## Visual Demonstration
 The following link leads to a visual demonstration of the project.
