@@ -27,14 +27,12 @@ Once you are ready, open the project(s) in Android Studio. If you want to simply
     <img src="https://github.com/Abelaj50/Movie-Client/blob/master/images/app_start.png" width=60% height=60%>
 </p>
  
-
 You can then begin testing Movie Client's features. To begin, press on the ***BIND SERVICE*** button. This will then begin binding to MovieCentral's service through a shared .aidl file. Once the service has been bound to, you can either a) press ***UNBIND SERVICE*** at anytime from here on out to unbind the service and revert the app to its default state, or b) press ***DOWNLOAD INFO***, which will then retrieve all the data necessary to power the app from MovieCentral's API. Once the information has been downloaded, you now have a few different options. You can:
 
 <p float="left">
     <img src="https://github.com/Abelaj50/Movie-Client/blob/master/images/app_capture.png" width=49% height=49%>
     <img src="https://github.com/Abelaj50/Movie-Client/blob/master/images/list_activity.png" width=49% height=49%>
 </p>
-
 
 * Select a movie from the dropdown menu
     * This automatically begins trailer playback.
